@@ -1,0 +1,26 @@
+# Nuxt
+.nuxt/
+dist/
+.cache/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+.pnpm/
+yarn.lock
+package-lock.json
+
+# Build artifacts
+.build/
+
+# Environment variables
+.env
+.env.*
+
+.vscode/
+
+
+.unlighthouse
